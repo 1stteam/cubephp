@@ -1,0 +1,12 @@
+{
+    "data": {
+        "title": { "type": "text", "text": "Tiêu đề", "data": [], "options": null },
+        "slug": { "type": "text", "text": "Đường dẫn", "data": [], "options": null },
+        "cat_id": { "type": "select", "text": "Chủ đề", "data": "get_select_post_cat_id", "options": null },
+        "content": { "type": "textarea", "text": "Nội dung", "data": [], "options": null },
+        "short_desc": { "type": "textarea", "text": "Mô tả ngắn", "data": [], "options": null }
+        
+        
+    },
+    "created": "2017-09-30"
+}

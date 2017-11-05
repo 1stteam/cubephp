@@ -1,0 +1,21 @@
+{
+    "name": "1stteam/cubephp",
+    "type": "library",
+    "description": "goi tien iich mo rong",
+    "authors": [
+        {
+            "name": "Doan Le",
+            "email": "thegioivuong@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "ext-ctype": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cube\\": "src/"
+        }
+    },
+    "license": "LGPL-2.1"
+}

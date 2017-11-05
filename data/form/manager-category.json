@@ -1,0 +1,10 @@
+{
+    "data": {
+        "name": { "type": "text", "text": "Tên chủ đề", "data": [], "options": null },
+        "slug": { "type": "text", "text": "Đường dẫn", "data": [], "options": null },
+        "description": { "type": "textarea", "text": "Mô tả", "data": [], "options": null },
+        "parent_id": { "type": "select", "text": "Mục cha", "data": "get_select_cat_parent", "options": null }
+        
+    },
+    "created": "2017-09-30"
+}

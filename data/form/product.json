@@ -1,0 +1,11 @@
+{
+    "data": {
+        "name": { "type": "text", "text": "Tên sản phẩm", "data": [], "options": null },
+        "detail": { "type": "textarea", "text": "Chi tiết sản phẩm", "data": [], "options": null },
+        "feature_image": { "type": "file", "text": "Ảnh sản phẩm", "data": null, "options": null },
+        "sell_price": { "type": "number", "text": "Giá sản phẩm", "data": [], "options": null }
+
+
+    },
+    "created": "2017-10-06"
+}

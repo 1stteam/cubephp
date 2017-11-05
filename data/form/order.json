@@ -1,0 +1,12 @@
+{
+    "data": {
+        "gender": { "type": "radio", "text": "Anh/Chị", "data": ["Anh", "Chị"], "options": null },
+        "name": { "type": "text", "text": "Họ tên", "data": [], "options": null },
+        "email": { "type": "email", "text": "Email", "data": [], "options": null },
+        "phonenumber": { "type": "tel", "text": "Số diện thoại", "data": [], "options": null },
+        "address": { "type": "textarea", "text": "Địa chỉ giao hàng", "data": [], "options": null },
+        "note": { "type": "textarea", "text": "Ghi chú", "data": [], "options": null },
+        "detail_cart": { "type": "hidden", "text": "chi tiết", "data": [], "options": null }
+    },
+    "created": "2017-10-06"
+}

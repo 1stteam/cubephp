@@ -1,0 +1,7 @@
+{
+    "data": {
+        "url": { "type": "text", "text": "Đường dẫn ảnh", "data": [], "options": null },
+        "image": { "type": "file", "text": "Ảnh trong máy", "data": null, "options": null }
+    },
+    "created": "2017-10-06"
+}

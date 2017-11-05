@@ -1,0 +1,11 @@
+{
+    "data": [
+        { "type": "text", "name": "name", "text": "Họ tên", "data": [] },
+        { "type": "date", "name": "birth_date", "text": "Ngày sinh", "data": [] },
+        { "type": "radio", "name": "gender", "text": "Giới tính", "data": ["Nam", "Nữ"] },
+        { "type": "text", "name": "username", "text": "Tên đăng nhập", "data": [] },
+        { "type": "email", "name": "email", "text": "Địa chỉ E-mail", "data": [] }
+
+    ],
+    "created": "2017-09-30"
+}

@@ -1,0 +1,11 @@
+{
+    "data": [
+        "",
+        "{text} không được bõ trống",
+        "{text} quá ngắn",
+        "{text} không hợp lệ",
+        "{text} đã được sử dụng trước đó!",
+        "{text} không khớp"
+    ],
+    "created": "2017-10-01"
+}

@@ -1,0 +1,14 @@
+{
+    "data": {
+        "name": { "type": "text", "name": "name", "text": "Họ tên", "data": [] },
+        "birth_date": { "type": "date", "name": "birth_date", "text": "Ngày sinh", "data": [] },
+        "gender": { "type": "radio", "name": "gender", "text": "Giới tính", "data": ["Nam", "Nữ"] },
+        "username": { "type": "text", "name": "username", "text": "Tên đăng nhập", "data": [] },
+        "email": { "type": "email", "name": "email", "text": "Địa chỉ E-mail", "data": [] },
+        "password": { "type": "password", "name": "password", "text": "Mật khẩu", "data": [] },
+        "oldpassword": { "type": "password", "name": "oldpassword", "text": "Mật khẩu cũ", "data": [] },
+        "newpassword": { "type": "password", "name": "newpassword", "text": "Mật khẩu mới", "data": [] },
+        "confirmpassword": { "type": "password", "name": "confirmpassword", "text": "Xác nhận mật khẩu", "data": [] }
+    },
+    "created": "2017-09-30"
+}
