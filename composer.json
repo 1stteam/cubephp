@@ -2,6 +2,8 @@
     "name": "1stteam/cubephp",
     "type": "library",
     "description": "goi tien iich mo rong",
+    "version": "1.0.0",
+    "homepage": "http://thegioivuong.com",
     "authors": [
         {
             "name": "Doan Le",
